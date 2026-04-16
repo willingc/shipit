@@ -11,3 +11,6 @@ git+https://github.com/kungfuchicken/pyosPackage-glowing-couscous.git
 git+https://github.com/Agastyarathee/pyos_Packages_rathee.git
 git+https://github.com/kush025priya-spec/shipit-project-PK.git
 git+https://github.com/cagancayco/pyosPackage_gancayco.git
+
+ipython
+jupyter
