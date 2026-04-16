@@ -1,0 +1,13 @@
+git+https://github.com/cagancayco/pyosPackage_gancayco.git
+git+https://github.com/pancakereport/pyopensci-workshop-create-python-package.git
+git+https://github.com/jacksayshi/pyopensci_jacksayshi.git
+git+https://github.com/miniyachi/pyosPackage_yc.git
+git+https://github.com/brunj7/pygreetings.git
+git+https://github.com/srerickson/peanut-butter-and-jelly.git
+git+https://github.com/frankosuna/pyosPackage_frankosuna.git
+git+https://github.com/feulloah/pyosPackage_feulloah.git
+git+https://github.com/kungfuchicken/pyosPackage-glowing-couscous.git
+# git+https://github.com/h1ppox99/preview_files.git  Note: I was having difficulty finding a public repo
+git+https://github.com/Agastyarathee/pyos_Packages_rathee.git
+git+https://github.com/kush025priya-spec/shipit-project-PK.git
+git+https://github.com/cagancayco/pyosPackage_gancayco.git
